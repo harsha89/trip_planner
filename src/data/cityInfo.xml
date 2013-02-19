@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <city>
+        <name>Anuradapuraya</name>
+            <visit>
+		<name>ruwanwali mahasaya</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+            <visit>
+		<name>mirisawatiya</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+            <visit>
+		<name>abegiriya</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+		
+            <meals>
+		<name>ABC resturent</name>
+                <cost>0</cost>
+		<time>30</time>
+            </meals>
+            <meals>
+            	<name>daily inn</name>
+                <cost>0</cost>
+		<time>30</time>
+            </meals>
+        
+            <bed>
+		<name>CDE resturent</name>
+		<cost>10000</cost>
+            </bed>
+            <bed>
+            	<name>daily inn</name>
+		<cost>6000</cost>
+            </bed>
+		
+    </city>
+    
+    <city>
+        <name>Batticaloa</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>kuttan pokuna</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Colombo</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>kuttan pokuna</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Gall</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>kuttan pokuna</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Jaffna</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Jaffna</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Kandy</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Manna</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Polonnaruwa</name>
+            <visit>
+		<name>vatadage</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+            <visit>
+		<name>kuttan pokuna</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+            <visit>
+		<name>thisa wawa</name>
+                <cost>0</cost>
+		<time>60</time>
+            </visit>
+		
+            <meals>
+		<name>XZ resturent</name>
+                <cost>1500</cost>
+		<time>30</time>
+            </meals>
+            <meals>
+            	<name>daily inn</name>
+                <cost>1000</cost>
+		<time>60</time>
+            </meals>
+        
+            <bed>
+		<name>CDE resturent</name>
+		<cost>10000</cost>
+            </bed>
+            <bed>
+            	<name>daily inn</name>
+		<cost>6000</cost>
+            </bed>
+		
+    </city><city>
+        <name>Sinharaja</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Trincomalee</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	<city>
+        <name>Yala</name>
+        <visit>
+			<name>vatadage</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+        <visit>
+			<name>thisa wawa</name>
+            <cost>0</cost>
+			<time>60</time>
+        </visit>
+		
+        <meals>
+			<name>XZ resturent</name>
+            <cost>1500</cost>
+			<time>30</time>
+        </meals>
+        <meals>
+            <name>daily inn</name>
+            <cost>1000</cost>
+			<time>60</time>
+        </meals>
+        <bed>
+			<name>CDE resturent</name>
+			<cost>10000</cost>
+        </bed>
+        <bed>
+            <name>daily inn</name>
+			<cost>6000</cost>
+        </bed>	
+    </city>
+	
+        
+</root>
